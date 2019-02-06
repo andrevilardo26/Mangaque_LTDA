@@ -1,2 +1,3 @@
 # Mangaque_LTDA
-Projeto de conclusão da disciplina DPW do curso de Sistemas de Informação da UNIRIO, produzido por André Vilardo e Ana Borges
+Projeto de conclusão da disciplina DPW do curso de Sistemas de Informação da UNIRIO, produzido por André Vilardo e Ana Borges.
+Todos os direitos reservados.
